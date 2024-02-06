@@ -4,6 +4,28 @@ title:  "Bienvenido al ambiente de prueba de LaFabril Chatbot!"
 date:   2024-02-06 17:28:05 -0500
 categories: jekyll update
 ---
+
+<!-- <link rel="stylesheet" href="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/themes/df-messenger-default.css">
+<script src="https://www.gstatic.com/dialogflow-console/fast/df-messenger/prod/v1/df-messenger.js"></script>
+<df-messenger
+  location="us-central1"
+  project-id="fabril-chatbot-poc"
+  agent-id="025c18b4-795f-4da7-bf18-5c7a1417e916"
+  language-code="es"
+  max-query-length="-1">
+  <df-messenger-chat-bubble
+   chat-title="Fabril-Chatbot">
+  </df-messenger-chat-bubble>
+</df-messenger>
+<style>
+  df-messenger {
+    z-index: 999;
+    position: fixed;
+    bottom: 16px;
+    right: 16px;
+  }
+</style> -->
+
 <!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 Jekyll requires blog post files to be named according to the following format:
